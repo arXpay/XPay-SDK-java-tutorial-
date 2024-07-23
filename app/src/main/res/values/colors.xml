@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#453E9F</color>
+    <color name="colorPrimaryDark">#37308C</color>
+    <color name="colorAccent">#87BC69</color>
+    <color name="my_green">#12C700</color>
+    <color name="my_red">#E54304</color>
+    <color name="my_yellow">#FFC107</color>
+    <color name="dark_gray">#838383</color>
+
+    <color name="trans_successs">#D3FFE0</color>
+    <color name="trans_failed">#FFCACE</color>
+    <color name="trans_pending">#F0F0F0</color>
+    <!--color palete-->
+    <color name="white">#dde6ec</color>
+    <color name="blue">#7ec4ed</color>
+    <color name="yellow">#d0fc7d</color>
+    <color name="Brown">#B27C412E</color>
+    <color name="pink">#ed579a</color>
+    <color name="green">#2aed76</color>
+</resources>
